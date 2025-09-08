@@ -16,6 +16,7 @@ In UserRepository, declare the following methods that help to find all user and 
 
 ```
 Your answer
+it is used to populate the database with dummy data on application startup. This allows for easy testing and development by providing pre-existing records (like the 10 users shown in the image) without having to manually create them.
 ```
 
 ## User Reservice - Complete the code
